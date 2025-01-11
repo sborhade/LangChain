@@ -1,0 +1,17 @@
+# type: ignore
+langchain
+langchain_community
+requests
+beautifulsoup4
+python-dotenv
+fpdf
+faiss-cpu
+sentence-transformers
+transformers
+langchain_huggingface
+langchain-ollama
+pypdf2
+bs4
+arxiv
+PyMUpdf
+wikipedia
